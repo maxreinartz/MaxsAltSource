@@ -19,7 +19,6 @@
       "localizedDescription": "This is the future and final iteration of the osu! game client which marks the beginning of an open era! Currently known by and released under the release codename \"lazer\". As in sharper than cutting-edge.",
       "iconURL": "https://github.com/ppy/osu/raw/master/assets/lazer.png",
       "tintColor": "ffaacf",
-      "minOSVersion": "13.4",
       "appPermissions": {},
       "screenshotURLs": []
     }
