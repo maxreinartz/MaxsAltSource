@@ -20,7 +20,8 @@
       "iconURL": "https://github.com/ppy/osu/raw/master/assets/lazer.png",
       "tintColor": "ffaacf",
       "appPermissions": {},
-      "screenshotURLs": []
+      "screenshotURLs": [],
+      "beta": true
     }
   ]
 }
