@@ -12,7 +12,7 @@
           "version": "2024.1224.1",
           "date": "2024-12-24",
           "localizedDescription": "Changelog: https://github.com/ppy/osu/compare/2024.1219.2...2024.1224.1",
-          "downloadURL": "https://github.com/ppy/osu/releases/download/2024.1224.1/osu.iOS.ipa",
+          "downloadURL": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/22456440/6636a7ab-8ad7-498e-b8f2-00de16cb8bc5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241224T161808Z&X-Amz-Expires=300&X-Amz-Signature=c36eccb8153281f73df59039fc3ab3f7f0f07cd38a38fb7aaa8360615bc1bc91&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dosu.iOS.ipa&response-content-type=application%2Foctet-stream",
           "size": 195300
         }
       ],
