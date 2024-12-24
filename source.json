@@ -1,8 +1,6 @@
 {
-  "repo": {
-    "name": "Max's Source",
-    "identifier": "dev.maxreinartz.source"
-  },
+  "name": "Max's Source",
+  "identifier": "dev.maxreinartz.source",
   "apps": [
     {
       "name": "osu!",
