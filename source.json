@@ -22,6 +22,7 @@
       "tintColor": "ffaacf",
       "appPermissions": {},
       "screenshotURLs": [],
+      "minOSVersion": "13.4",
       "beta": true
     },
     {
