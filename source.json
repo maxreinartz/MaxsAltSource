@@ -7,11 +7,7 @@
       "bundleIdentifier": "sh.ppy.osulazer",
       "developerName": "Dean Herbert",
       "subtitle": "A free-to-win rhythm game. Rhythm is just a click away!.",
-      "version": "2024.1224.1",
-      "versionDate": "2024-12-24",
-      "versionDescription": "Latest osu! version.",
       "downloadURL": "https://files.catbox.moe/4fwjyj.ipa",
-      "size": 195300000,
       "versions": [
         {
           "version": "2024.1224.1",
