@@ -1,2 +1,2 @@
 # MaxsAltSource
-My personal Alt/SideStore sources.
+My personal SideStore source.
