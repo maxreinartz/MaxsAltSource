@@ -29,18 +29,18 @@
       "bundleIdentifier": "com.anime.anymex",
       "developerName": "Ryan Yuuki",
       "subtitle": "An Open Source app for watching anime, reading mangas and novels.",
-      "downloadURL": "https://files.catbox.moe/4fwjyj.ipa",
+      "downloadURL": "https://files.catbox.moe/v2nryl.ipa",
       "versions": [
         {
-          "version": "0",
-          "date": "2024-12-24",
+          "version": "2.8.4-2",
+          "date": "2024-12-01",
           "localizedDescription": "---",
-          "downloadURL": "https://files.catbox.moe/4fwjyj.ipa",
-          "size": 0
+          "downloadURL": "https://files.catbox.moe/v2nryl.ipa",
+          "size": 27400000
         }
       ],
       "localizedDescription": "Welcome to AnymeX—an open-source anime streaming, manga reading, and novel reading app built with Flutter and Dart! 🌟 It's designed to give you fast and free access to your favourite content in a beautiful, user-friendly app that keeps improving. Explore a growing library of anime, manga, and novels, all in one place, with seamless performance and sleek design updates.",
-      "iconURL": "https://github.com/ppy/osu/raw/master/assets/lazer.png",
+      "iconURL": "https://raw.githubusercontent.com/RyanYuuki/AnymeX/refs/heads/main/assets/images/logo.png",
       "tintColor": "000000",
       "appPermissions": {},
       "screenshotURLs": [],
