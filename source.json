@@ -68,6 +68,28 @@
       "appPermissions": {},
       "screenshotURLs": [],
       "beta": true
+    },
+    {
+      "name": "iDOS",
+      "bundleIdentifier": "com.litchie.idosgames",
+      "developerName": "litchie",
+      "subtitle": "iDOS - DOSBox port on iOS",
+      "downloadURL": "https://files.catbox.moe/ss1bqw.ipa",
+      "versions": [
+        {
+          "version": "2.1",
+          "date": "2020-10-20",
+          "localizedDescription": "Game controller support.",
+          "downloadURL": "https://files.catbox.moe/ss1bqw.ipa",
+          "size": 5400000
+        }
+      ],
+      "localizedDescription": "dosbox port for iOS, aka iDOS, based on dosbox v0.74-3 and SDL1.2.",
+      "iconURL": "https://raw.githubusercontent.com/litchie/dospad/refs/heads/master/Resources/Assets.xcassets/AppIcon.appiconset/icon-180.png",
+      "tintColor": "e2e4c0",
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "beta": false
     }
   ]
 }
