@@ -15,13 +15,6 @@
           "localizedDescription": "Changelog: https://github.com/ppy/osu/compare/2024.1224.0...2025.101.0",
           "downloadURL": "https://files.catbox.moe/mqk4rt.ipa",
           "size": 195400000
-        },
-        {
-          "version": "2024.1224.1",
-          "date": "2024-12-24",
-          "localizedDescription": "Changelog: https://github.com/ppy/osu/compare/2024.1219.2...2024.1224.1",
-          "downloadURL": "https://files.catbox.moe/4fwjyj.ipa",
-          "size": 195300000
         }
       ],
       "localizedDescription": "This is the future and final iteration of the osu! game client which marks the beginning of an open era! Currently known by and released under the release codename \"lazer\". As in sharper than cutting-edge.",
