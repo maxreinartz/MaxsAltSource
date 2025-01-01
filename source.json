@@ -7,8 +7,15 @@
       "bundleIdentifier": "sh.ppy.osulazer",
       "developerName": "Dean Herbert",
       "subtitle": "A free-to-win rhythm game. Rhythm is just a click away!.",
-      "downloadURL": "https://files.catbox.moe/4fwjyj.ipa",
+      "downloadURL": "https://files.catbox.moe/mqk4rt.ipa",
       "versions": [
+        {
+          "version": "2025.101.0",
+          "date": "2024-12-31",
+          "localizedDescription": "Changelog: https://github.com/ppy/osu/compare/2024.1224.0...2025.101.0",
+          "downloadURL": "https://files.catbox.moe/mqk4rt.ipa",
+          "size": 195400000
+        },
         {
           "version": "2024.1224.1",
           "date": "2024-12-24",
